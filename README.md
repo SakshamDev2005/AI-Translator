@@ -22,6 +22,6 @@ pip install langchain langchain_groq
 To use the AI Translator, simply run the script:
 
 ```
-python AI-Agent.py
+python AI-Translator.py
 ```
 The program will prompt you to enter text for translation. Type your text and press Enter. The AI will then provide a translation based on the input. To exit the program, type stop.
