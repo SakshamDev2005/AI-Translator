@@ -7,7 +7,7 @@ from langchain.chains import LLMChain
 from langchain_groq import ChatGroq
 
 
-model = ChatGroq(model="llama3-8b-8192",api_key='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')
+model = ChatGroq(model="llama3-8b-8192",api_key='')
 
 template = """
 You're an AI Translator.
