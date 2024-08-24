@@ -1,6 +1,6 @@
 # AI-Translator
 
-This project is an AI-based language translator implemented using LangChain and Groq models. The AI agent is designed to translate text based on user input, with support for different languages as specified by the user.
+This project is an AI-based language translator implemented using LangChain and Groq models. The AI module is designed to translate text based on user input, with support for different languages as specified by the user.
 
 # Overview
 
