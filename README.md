@@ -10,8 +10,8 @@ The AI Translator uses the langchain library to create a conversational model th
 
 To run this project, you need to have Python installed along with the following dependencies:
 
-langchain
-langchain_groq
+ - langchain
+ - langchain_groq
 
 You can install the necessary Python packages using pip:
 ```
