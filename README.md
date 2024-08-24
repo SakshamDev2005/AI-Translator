@@ -13,10 +13,15 @@ To run this project, you need to have Python installed along with the following 
 langchain
 langchain_groq
 
+You can install the necessary Python packages using pip:
+```
+pip install langchain langchain_groq
+```
+
 # Usage
 To use the AI Translator, simply run the script:
 
-bash
-Copy code
+```
 python AI-Agent.py
+```
 The program will prompt you to enter text for translation. Type your text and press Enter. The AI will then provide a translation based on the input. To exit the program, type stop.
